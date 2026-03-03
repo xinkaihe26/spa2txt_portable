@@ -17,4 +17,5 @@ or you can use the spa2txt.exe directly:
 
 or you can directly use powershell to copy paste .exe in your folder:
 Copy-Item "C:\Users\......\spa2txt_portable\spa2txt.exe" .\ -Force
+
 Get-ChildItem -Filter *.spa | ForEach-Object { .\spa2txt.exe $_.FullName }
