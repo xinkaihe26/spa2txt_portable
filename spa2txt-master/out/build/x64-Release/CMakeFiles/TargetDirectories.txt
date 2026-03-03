@@ -1,0 +1,4 @@
+C:/Users/xinkaihe/Downloads/FTIR spa to txt/spa2txt-master/out/build/x64-Release/CMakeFiles/spa.dir
+C:/Users/xinkaihe/Downloads/FTIR spa to txt/spa2txt-master/out/build/x64-Release/CMakeFiles/spa2txt.dir
+C:/Users/xinkaihe/Downloads/FTIR spa to txt/spa2txt-master/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/xinkaihe/Downloads/FTIR spa to txt/spa2txt-master/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
