@@ -12,7 +12,7 @@ or you can use the spa2txt.exe directly:
 
 2. in Powershell, cd to your directory
 
-3. convert al spa files using command:  Get-ChildItem -Filter *.spa | ForEach-Object { .\spa2txt.exe $_.FullName }
+3. convert all spa files using command:  Get-ChildItem -Filter *.spa | ForEach-Object { .\spa2txt.exe $_.FullName }
 
 
 or you can directly use powershell to copy paste .exe in your folder:
